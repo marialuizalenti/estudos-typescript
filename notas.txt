@@ -1,0 +1,7 @@
+Typescript notas
+
+- O navegador não roda o typescript, é preciso sempre converter o ts para js, mexendo na pasta package.json e criando a tsconfig.json.
+- Sempre tipe os métodos, menos o construtor, para evitar erros.
+- MVC (Model-View-Controller): Model -> modelo de dados.
+			       View -> interface do usuário.
+			       Controller -> intermediário entre a visualização e o modelo.
